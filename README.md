@@ -33,7 +33,8 @@ COMING SOON...
 <b> 😊😊 *Operartion Group:* 😊😊 </b>
 
 + [Santiago Arevalo Valencia](https://github.com/santiagoarevalo "Santiago A.")
-+ 
++ [Jhan Carlos Carvajal](https://github.com/Rockthor1106 "Jhan") 
++ [Gilmar Andrés Amezquita](https://github.com/GilmarAmezquita "Gilmar")
 
 <br>
 
