@@ -21,14 +21,6 @@ This application has a section called "For you", which seeks to provide suggeste
     <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/fluency-systems-filled/344/ffffff/github.png" height="60" width = "60" alt="GitHub"></a>
 </div>
 
-## <b> Overview </b> 💻🕹
-
-
-COMING SOON...
-
-
-
-
 ## <b> Made by </b>
 <b> 😊😊 *Operartion Group:* 😊😊 </b>
 
