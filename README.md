@@ -6,7 +6,7 @@ This application has a section called "For you", which seeks to provide suggeste
 
 ## <b> Documentation </b> 📄
 
-- *!Here Link!: [Documentation]()*
+- *!Here Link!: [Documentation](https://github.com/santiagoarevalo/recommender-system-groovehub/tree/b0576c1b0bd49817eda317be6f5e1c303cae9e5e/docs)*
 
 ## <b> Built with </b> 🛠
 
