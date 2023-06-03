@@ -11,9 +11,8 @@ This application has a section called "For you", which seeks to provide suggeste
 ## <b> Built with </b> 🛠
 
 
-+ [Kotlin](https://kotlinlang.org/) - Programming language used.
-+ [FireBase](https://firebase.google.com/products/realtime-database?hl=es-419#:~:text=Firebase%20Realtime%20Database%20es%20una,de%20app%20a%20escala%20global.) - Database used.
-+ [Android Studio](https://developer.android.com/studio?gclsrc=ds&gclsrc=ds) - IDE in which the base code was worked.
++ [Python](https://www.python.org/) - Programming language used.
++ [Streamlit](https://streamlit.io/) - User Graphic Interface Tool
 
 ## **Versioned** 📌
 
