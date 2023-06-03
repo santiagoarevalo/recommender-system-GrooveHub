@@ -1,5 +1,5 @@
 
-# <b style="color:#5D24A3"> *GrooveHub APP* </b>
+# <b style="color:#5D24A3"> *Recommender System - GrooveHub APP* </b>
 
 GrooveHub App is a music social network that allows interaction between users around the music world and all its content. 
 This application has a section called "For you", which seeks to provide suggested publications to the user depending on their preferences and tastes for different musical genres. GrooveHub's recommender system does its job in this section, compiling the likes and playlists of each user, analyzing the attributes of the songs and creating clusters to identify the attributes that are liked by the user.
